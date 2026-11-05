@@ -13,12 +13,6 @@ I'm a freelance full-stack developer based in England, UK. I design and build co
 ## 🚀 Featured projects
 
 - **[recon-framework](https://github.com/mr-mohamad-mr/recon-framework)** — Security reconnaissance framework.
-- **[northbeam-saas-template](https://github.com/mr-mohamad-mr/northbeam-saas-template)** — SaaS landing page template in pure HTML/CSS/JS. No build step, dark mode included.
-- **[supportpilot-chat-widget](https://github.com/mr-mohamad-mr/supportpilot-chat-widget)** — Embeddable FAQ chat widget. Zero dependencies, runs entirely in the browser.
-- **[taskboard-api](https://github.com/mr-mohamad-mr/taskboard-api)** — REST API for task boards: FastAPI + SQLite, JWT auth, pagination & filtering, pytest suite.
-- **[pricescout-scraper](https://github.com/mr-mohamad-mr/pricescout-scraper)** — Web scraping & data extraction CLI (Python standard library only) → CSV/JSON.
-- **[siteaudit-qa-tool](https://github.com/mr-mohamad-mr/siteaudit-qa-tool)** — Website QA auditor: 26 checks for SEO, accessibility, security & performance.
-- **[wp-sticky-call-button](https://github.com/mr-mohamad-mr/wp-sticky-call-button)** — WordPress plugin adding a sticky tap-to-call button for mobile visitors.
 
 ## 📊 GitHub stats
 
