@@ -14,6 +14,7 @@ I'm a freelance full-stack developer based in England, UK. I design and build co
 
 - **[recon-framework](https://github.com/mr-mohamad-mr/recon-framework)** — Security reconnaissance framework.
 - **[ai-support-copilot](https://github.com/mr-mohamad-mr/ai-support-copilot)** — Multi-tenant AI support platform: RAG chat with cited answers, human handoff, analytics and Docker.
+- **[collab-board-realtime](https://github.com/mr-mohamad-mr/collab-board-realtime)** — Real-time collaborative whiteboard: live multi-user editing over WebSockets, presence, conflict handling, roles and activity feed.
 
 ## 📊 GitHub stats
 
