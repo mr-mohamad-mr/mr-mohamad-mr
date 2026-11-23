@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Web, Mobile, AI/ML, Automation & Web3** 🇬🇧
 
-I'm a freelance full-stack developer based in England, UK. I design and build complete products — from landing pages and WordPress sites to APIs, automation pipelines and AI integrations — and I ship a new senior-level project every day.
+I'm a freelance full-stack developer based in England, UK. I design and build complete products — from landing pages and WordPress sites to APIs, automation pipelines and AI integrations. I build and ship complete, tested projects end to end.
 
 ## 🛠️ Tech stack
 
