@@ -15,6 +15,7 @@ I'm a freelance full-stack developer based in England, UK. I design and build co
 - **[recon-framework](https://github.com/mr-mohamad-mr/recon-framework)** — Security reconnaissance framework.
 - **[ai-support-copilot](https://github.com/mr-mohamad-mr/ai-support-copilot)** — Multi-tenant AI support platform: RAG chat with cited answers, human handoff, analytics and Docker.
 - **[collab-board-realtime](https://github.com/mr-mohamad-mr/collab-board-realtime)** — Real-time collaborative whiteboard: live multi-user editing over WebSockets, presence, conflict handling, roles and activity feed.
+- **[web3-escrow-dapp](https://github.com/mr-mohamad-mr/web3-escrow-dapp)** — Milestone-based freelance escrow on Ethereum: Solidity contracts with disputes, deadline refunds and pull payouts, 39 Hardhat tests, ethers v6 CLI, React frontend and a one-command Docker demo (local chain only).
 
 ## 📊 GitHub stats
 
