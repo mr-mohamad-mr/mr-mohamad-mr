@@ -16,6 +16,7 @@ I'm a freelance full-stack developer based in England, UK. I design and build co
 - **[ai-support-copilot](https://github.com/mr-mohamad-mr/ai-support-copilot)** — Multi-tenant AI support platform: RAG chat with cited answers, human handoff, analytics and Docker.
 - **[collab-board-realtime](https://github.com/mr-mohamad-mr/collab-board-realtime)** — Real-time collaborative whiteboard: live multi-user editing over WebSockets, presence, conflict handling, roles and activity feed.
 - **[web3-escrow-dapp](https://github.com/mr-mohamad-mr/web3-escrow-dapp)** — Milestone-based freelance escrow on Ethereum: Solidity contracts with disputes, deadline refunds and pull payouts, 39 Hardhat tests, ethers v6 CLI, React frontend and a one-command Docker demo (local chain only).
+- **[ai-code-review-bot](https://github.com/mr-mohamad-mr/ai-code-review-bot)** — GitHub App that reviews pull requests: webhook receiver, exact diff parser, pluggable review core (offline rules or any OpenAI-compatible LLM, incl. local Ollama), inline comments with suggested fixes, check runs, per-repo config, dashboard, 199 tests and Docker.
 
 ## 📊 GitHub stats
 
